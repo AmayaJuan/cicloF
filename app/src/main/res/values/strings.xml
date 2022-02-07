@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">CicloFragment</string>
+    <string name="app_name">CycleFragment</string>
+    <string name="message">Hello World, but from a Fragment.</string>
 </resources>
