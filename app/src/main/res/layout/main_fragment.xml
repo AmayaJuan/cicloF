@@ -11,7 +11,7 @@
         android:id="@+id/message"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/mensaje"
+        android:text="@string/message"
         android:layout_marginStart="32dp"
         android:layout_marginLeft="32dp"
         android:layout_marginRight="32dp"
